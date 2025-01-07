@@ -3,7 +3,7 @@ import random
 import time
 
 
-#   coding: UTF-8   #   Author: Caio Ramos  #
+
 os.system("clear")
 def __main__():
     if __name__ == "__main__":
